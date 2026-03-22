@@ -38,9 +38,11 @@ ________________________________________
    o	Used consistent colors and formatting 
 ________________________________________
 
-##Dashboard 
+##Dashboard interaction   
 
-<a href="https://drive.google.com/file/d/1-ellofwOhhFpoNVDkGDNcoen0YUwsyNY/view?usp=drive_link">Dashboard</a>   
+    
+<img width="1067" height="603" alt="Screenshot 2026-03-22 142515" src="https://github.com/user-attachments/assets/17447247-3909-4ce0-b23f-2df296ea5873" />
+
 ________________________________________
 
 ##📊 Key KPIs   
